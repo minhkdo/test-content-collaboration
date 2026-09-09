@@ -1,4 +1,3 @@
-Week 4 task:
-1-Homework 2 STAT509.
-2-Lab Section .
-3-Advisor Appointment.
+CSCE215.
+M. Bert Storey Engineering and Innovation Center.
+Wed Sep 9 12:00.
